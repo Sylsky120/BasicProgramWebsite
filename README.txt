@@ -18,4 +18,4 @@
 
 ## 網站展示
 
-https://sylsky120.github.io/bpg/
+https://sylsky120.github.io/BasicProgramWebsite/
