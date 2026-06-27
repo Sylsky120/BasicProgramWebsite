@@ -1,30 +1,21 @@
-Verti by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# BPG Learning Website
 
+高中時期，當資訊社基礎程式組教學時，自主開發的C++程式學習網站。
 
-A super simple + modern responsive website template. Took a slightly different direction
-on the mobile version's slide out nav (floating button versus a full on titlebar).
+## 功能
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+- C++基礎語法
+- 基本資料結構與演算法
+- 程式設計教材
+- 每日練習題
+- 學習資源整理
 
-(* = Not included)
+## 技術
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+- HTML
+- CSS
+- JavaScript
 
-AJ
-aj@lkn.io | @ajlkn
+## 網站展示
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+https://sylsky120.github.io/bpg/
